@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Logan Schmillen</h1>
 <h3 align="center">A passionate software developer from the U.S.</h3>
 
-- 🌱 I’m currently learning **Spring Security, AWS, and system design principles**
+- 🌱 I’m currently learning **AWS, Spring Security, and system design principles**
 
-- 👯 I’m looking to collaborate on **Anything involving AI, databases, or backend development**
+- 👯 I’m looking to collaborate on **AI, databases, or backend development**
 
 - 🤝 I’m looking for help with **Optimizing backend performance and security**
 
 - 💬 Ask me about **Java, Spring Boot, React, SQL, and AI projects**
 
-- 📫 How to reach me **logan.schmillen@siu.edu or schmillen20@gmail.com**
+- 📫 Reach me at **logan.schmillen@siu.edu or schmillen20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
