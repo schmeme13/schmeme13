@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Logan Schmillen</h1>
-<h3 align="center">A passionate software developer from the U.S.</h3>
+<h1 align="center">Logan Schmillen</h1>
 
-- 🌱 I’m currently learning **AWS, Spring Security, and system design principles**
+I'm a dedicated software developer based in the U.S., with a strong passion for building efficient, scalable, and secure applications. My expertise lies in Java, Spring Boot, React, SQL, and AI-driven solutions.
 
-- 👯 I’m looking to collaborate on **AI, databases, or backend development**
+Currently, I'm expanding my knowledge in AWS, Spring Security, and system design principles to enhance my ability to develop robust backend systems. I'm particularly interested in collaborating on projects involving AI, databases, and backend development.
 
-- 🤝 I’m looking for help with **Optimizing backend performance and security**
+I'm always looking to improve backend performance and security and would welcome insights or discussions on best practices in these areas. If you have a challenge related to system optimization or complex data structures, I'd love to help.
 
-- 💬 Ask me about **Java, Spring Boot, React, SQL, and AI projects**
-
-- 📫 Reach me at **logan.schmillen@siu.edu or schmillen20@gmail.com**
+Feel free to reach out at logan.schmillen@siu.edu or schmillen20@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
